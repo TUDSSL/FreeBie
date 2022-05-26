@@ -182,7 +182,7 @@ Please refer to the Evaluation Setup Section for more information about the powe
 
 By executing the *plot.sh* script in the *Plotting* directory all of the plots can be generated. Please note that due to the size of the 24 hour plot this might take more than 15 minutes and requires a system with at least 16GB of RAM. All plotting scripts use Python and assume Python is installed on the system; all Python dependencies can be installed via the *requirements.txt* file using the following commands.
 
-Since the measurements files are large they are only included in the version of the artifact hosted on [Zenodo](TODOLINK)
+Since the measurements files are large they are only included in the version of the artifact hosted on [Zenodo](https://doi.org/10.5281/zenodo.6583725)
 
 ```bash
 $ cd Plotting
