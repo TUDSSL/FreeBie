@@ -1,0 +1,4 @@
+alive_progress==2.4.1
+numpy==1.22.3
+pandas==1.4.2
+pause==0.3
